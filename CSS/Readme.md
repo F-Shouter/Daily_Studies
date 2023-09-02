@@ -1,1 +1,2 @@
-ainda não aprendi ou comecei a estudar CSS rsrsrs 🙋‍♀️🙋‍♀️🙋‍♀️
+ 🙋‍♀️🙋‍♀️🙋‍♀️
+I haven't learned or started studing CSS yet...
