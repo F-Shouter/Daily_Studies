@@ -1,0 +1,1 @@
+ainda não aprendi ou comecei a estudar CSS rsrsrs 🙋‍♀️🙋‍♀️🙋‍♀️
