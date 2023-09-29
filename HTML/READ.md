@@ -1,0 +1,1 @@
+In this part, I do some exercises for my studies at Guanabara School.
