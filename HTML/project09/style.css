@@ -1,0 +1,43 @@
+body{
+    background-image:linear-gradient(180deg, #000000, #000000,#000000
+    );
+}
+main{
+    position: relative;
+    background-color: #ffffff;
+    width: 350px;
+    height: 95px;
+    margin: auto;
+    border-radius: 90px;}
+   
+
+    main h1 {
+        position: absolute;
+        top: 20%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color:#000000;}
+            
+    main img:first-child {
+        position: absolute;
+        top: 50%;
+        left: 12%;
+        transform: translate(-50%, -50%); }
+   
+
+    main img:last-child {
+        position: absolute;
+        top: 50%;
+        left: 89%;
+        transform: translate(-50%, -50%);}
+     
+    
+.d1 {
+    background-color: #ffffff;
+    width: 400px;
+    height: 585px;
+    margin: auto;
+    border-radius: 50px;
+    
+    text-align:center;}
+    
